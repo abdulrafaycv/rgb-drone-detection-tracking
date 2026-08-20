@@ -73,13 +73,13 @@ Then launch:
 Record the actual deployment environment used for your experiments here:
 
 ```text
-JetPack: [VERSION]
-CUDA: [VERSION]
-TensorRT: [VERSION]
-OpenCV: [VERSION]
-Python: [VERSION]
-C++ Standard: [VERSION]
-Jetson Power Mode: [MODE]
+JetPack: 6.2
+CUDA: 12.1
+TensorRT: 10.3
+OpenCV: 4.10
+Python: 3.13
+C++ Standard: c++17
+Jetson Power Mode: 25 watt
 Input Resolution: 640
 Model Input Size: 640
 ```
