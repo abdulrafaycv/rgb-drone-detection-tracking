@@ -1,0 +1,11 @@
+ultralytics
+torch
+torchvision
+opencv-python
+numpy
+scipy
+matplotlib
+pandas
+PyYAML
+argparse
+python-math
